@@ -1,0 +1,23 @@
+.save-segment{
+    background-color: grey;
+    border: 2px solid white;
+}
+
+.site-form-in-drawer-wrapper {
+    position: absolute;
+    inset-inline-end: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 16px;
+    text-align: right;
+    background: #fff;
+    border-top: 1px solid #e9e9e9;
+  }
+  .dot {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 8px;
+    margin-top: 5px;
+  }
